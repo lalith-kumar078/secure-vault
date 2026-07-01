@@ -243,16 +243,4 @@ Note: Requires a paid Lovable plan.
 - Use the breach checker regularly
 - Update weak passwords promptly
 
-## License
 
-This project is built with Lovable and follows standard web application licensing.
-
-## Support
-
-For issues or questions:
-- Visit [Lovable Documentation](https://docs.lovable.dev/)
-- Join [Lovable Discord Community](https://discord.com/channels/1119885301872070706/1280461670979993613)
-
----
-
-**Built with ❤️ using [Lovable](https://lovable.dev)**
